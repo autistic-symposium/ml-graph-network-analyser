@@ -2,6 +2,8 @@ import networkx as nx
 
 
 def edgec(network):
-    return None#nx.number_of_nodes(network)
+    net = network.to_undirected()
+    e = nx.edge_connectivity(net)
+    return e
 
 

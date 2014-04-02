@@ -2,6 +2,7 @@ import networkx as nx
 
 
 def clique(network):
-    return None #nx.number_of_nodes(network)
+    net = network.to_undirected()
+    c = nx.graph_clique_number(net)
 
-
+    return c

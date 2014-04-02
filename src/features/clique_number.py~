@@ -2,6 +2,12 @@ import networkx as nx
 
 
 def clique(network):
-    #return nx.number_of_nodes(network)
+    net = network.to_undirected()
+    c = nx.graph_clique_number(net)#.items()
+    
+    #r = [x[1] for x in b]
+    # mean clique number
+    #m = sum(r)/len(r)
+    #return round(m, 3)
 
-
+    return c

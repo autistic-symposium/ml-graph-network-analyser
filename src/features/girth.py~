@@ -1,7 +1,8 @@
 import networkx as nx
-
+from igraph import Graph
 
 def gi(network):
-    #return nx.number_of_nodes(network)
+    g = network.girth()
+    return g
 
 

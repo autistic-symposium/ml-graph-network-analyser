@@ -2,6 +2,6 @@ import networkx as nx
 
 
 def asso(network):
-    #return nx.degree_assortativity_coefficient(network)
-
+    a = nx.degree_assortativity_coefficient(network)
+    retunr round(a, 3)
 

@@ -2,6 +2,7 @@ import networkx as nx
 
 
 def clust(network):
-    #return nx.number_of_nodes(network)
-
+    net = network.to_undirected()
+    c = nx.average_clustering(net)
+    return round(c,3)
 

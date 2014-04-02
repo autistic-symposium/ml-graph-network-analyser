@@ -2,6 +2,7 @@ import networkx as nx
 
 
 def edgec(network):
-    #return nx.number_of_nodes(network)
+    e = nx.edge_connectivity(network)
+    return e
 
 
