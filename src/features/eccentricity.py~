@@ -1,0 +1,7 @@
+import networkx as nx
+
+
+def ecc(network):
+    return nx.eccentricity(network)
+
+

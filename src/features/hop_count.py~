@@ -1,0 +1,7 @@
+import networkx as nx
+
+
+def hc(network):
+    #return nx.number_of_nodes(network)
+
+
