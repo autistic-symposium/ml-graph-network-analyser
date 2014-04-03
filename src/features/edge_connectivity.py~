@@ -1,8 +1,0 @@
-import networkx as nx
-
-
-def edgec(network):
-    e = nx.edge_connectivity(network)
-    return e
-
-
