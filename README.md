@@ -3,8 +3,6 @@ MNet 3.0 - Complex Network Analysis Package
 
 Extraction and analysis of several graph features from publicly available datasets using NetworkX.
 
-For results, reports, plots: http://dev.mariwahl.us
-
 Features Analyzed:
 ------------------
 
@@ -56,11 +54,17 @@ Networks:
 * Memetracker: Memetracker phrases, links
 * Online communities:  Data from online communities such as Reddit and Flickr
 * Online reviews: Data from online review systems such as BeerAdvocate and Amazon
+* Bio Atlas: Food-webs  selected from Ecosystem Network Analysis site and from ATLSS.                 
+* Bio Cellular: Substrate in cellular network of corresponding organism.     
+* Bio Metabolic: Metabolic network of corresponding organism.      
+* Bio Carbon: Carbon exchanges in the cypress wetlands of South Florida during the wet and dry season. 
+* Bio Yeast: Protein-protein interaction network in budding yeast.  
+
 
 
 Normalization and Graph sampling:
 ---------------------------------
-Performed using snowball sampling.
+Performed using snowball sampling (choosing the depth, N) or Metropolis Hastings Random Walk (choosing the size).
 
 
 
