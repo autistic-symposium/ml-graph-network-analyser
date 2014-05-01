@@ -2,7 +2,7 @@ import time
 
 from features_src.global_features import assortativity, clique_number, number_of_cliques, number_of_edges, number_of_nodes, transitivity, radius, isolates, edge_connectivity, diameter, density, node_connectivity, clustering
 
-from features_src.average_features import betweeness_centrality, coreness, degree_centrality, closeness_centrality, communicability_centrality, eccentricity, number_of_triangles, square_clustering, pagerank
+from features_src.average_features import betweeness_centrality, coreness, degree_centrality, closeness_centrality, communicability_centrality, eccentricity, number_of_triangles, square_clustering, pagerank,  shortest_path_leng
 
 
 def process_between(net, net_name, k=None):
@@ -177,3 +177,11 @@ def process_node_connectivity(net, net_name):
     print("Done! Time: " + time.strftime("%I:%M:%S"))
     return str(f), feature_name 
 
+    return str(f), feature_name 
+
+def process_shortest_path_leng(net, net_name):
+    feature_name = "Ave Shortest Path"
+    print("Calculating " + feature_name + " for " + net_name + "...")
+    f = shortest_path_leng.asp(net)
+    print("Done! Time: " + time.strftime("%I:%M:%S"))
+    return str(f), feature_name 

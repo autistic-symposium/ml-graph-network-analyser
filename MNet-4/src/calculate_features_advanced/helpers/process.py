@@ -6,7 +6,7 @@ import networkx as nx
 
 from save import save_feature
 
-from features import   process_eccentricity, process_diameter, process_closeness,  process_between, process_ave_node_connectivity , process_density,  process_radius,  process_isolates, process_pagerank, process_square_clustering, process_communicability
+from features import   process_eccentricity, process_diameter, process_closeness,  process_between, process_ave_node_connectivity , process_density,  process_radius,  process_isolates, process_pagerank, process_square_clustering, process_communicability, process_shortest_path_leng
 
 
 def process_all_di(network, path_to_net, n, path_to_output):
@@ -21,7 +21,12 @@ def process_all_di(network, path_to_net, n, path_to_output):
 	'''
         Graph must be connected
 	'''
-        snet = nx.strongly_connected_component_subgraphs(network)
+    snet = nx.strongly_connected_component_subgraphs(network)
+	try:
+		    f, feature_name = process_shortest_path_leng(snet[0], n)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Ave. Shortest Path Lengh did not work!\n') 
 	try:
 	        f, feature_name = process_eccentricity(snet[0], n)
         	save_feature(path_to_output, f, feature_name)
@@ -89,6 +94,11 @@ def process_all_un(network, path_to_net, n, path_to_output):
 	'''
 
 	net = nx.connected_component_subgraphs(network)
+	try:
+		    f, feature_name = process_shortest_path_leng(net[0], n)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Ave. Shortest Path Lengh did not work!\n') 
 	try:
 	        f, feature_name = process_eccentricity(net[0], n)
         	save_feature(path_to_output, f, feature_name)
