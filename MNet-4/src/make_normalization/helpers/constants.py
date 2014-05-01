@@ -2,9 +2,11 @@ PATH_2_GRAPH_GLOBAL = "../../data/"
 PATH_2_GRAPH_SAMPLED = "../../output/graphs_sampled/" 
 PATH_2_FEATURES_SAMPLED = "../../output/features_vector_sampled/"  
 
-NUMBER_OF_RANDOM_SAMPLES = 1
+NUMBER_OF_RANDOM_SAMPLES = 3
 
 DEPTH_SAMPLE = 4
+
+SIZE = 2000
 
 
 NETWORK_FILES_UN_YEAST  = ["1.dat", '2.dat', '3.dat']

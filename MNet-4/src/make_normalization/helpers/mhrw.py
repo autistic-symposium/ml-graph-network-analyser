@@ -34,11 +34,11 @@ def mhrw_sampling(g, network, size, count):
     
 
 
-def make_sample(network, depth_sample):
+def make_sample(network, size=1000):
     g = nx.DiGraph()
     worked = False
     count = 0
-    size = 1000
+
     while worked == False and count < size:
         worked = mhrw_sampling(g, network, size, count)
         count += 1

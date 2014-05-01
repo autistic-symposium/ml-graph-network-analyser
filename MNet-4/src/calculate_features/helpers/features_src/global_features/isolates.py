@@ -7,6 +7,6 @@ import networkx as nx
 
 def iso(network):
     i = nx.isolates(network)
-    return i
+    return len(i)
 
 

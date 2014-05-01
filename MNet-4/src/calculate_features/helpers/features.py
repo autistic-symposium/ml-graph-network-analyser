@@ -54,7 +54,7 @@ def process_size(net, net_name):
 
 
 def process_number_cliques(net, net_name):
-    feature_name = "Num_Cliques"
+    feature_name = "Number_Cliques"
     print("Calculating " + feature_name + " for " + net_name + "...")
     f =  number_of_cliques.nc(net)
     print("Done! Time: " + time.strftime("%I:%M:%S"))
@@ -107,7 +107,7 @@ def process_eccentricity(net, net_name):
     return str(f), feature_name 
 
 def process_num_triangles(net, net_name):
-    feature_name = "Num_Triangles"
+    feature_name = "Number_Triangles"
     print("Calculating " + feature_name + " for " + net_name + "...")
     f = number_of_triangles.nt(net)
     print("Done! Time: " + time.strftime("%I:%M:%S"))
@@ -121,7 +121,7 @@ def process_pagerank(net, net_name):
     return str(f), feature_name 
 
 def process_square_clustering(net, net_name):
-    feature_name = "Square_clust"
+    feature_name = "Square_clustering"
     print("Calculating " + feature_name + " for " + net_name + "...")
     f = square_clustering.sclust(net)
     print("Done! Time: " + time.strftime("%I:%M:%S"))
@@ -156,7 +156,7 @@ def process_density(net, net_name):
     return str(f), feature_name 
 
 def process_ave_node_connectivity(net, net_name):
-    feature_name = "Ave_Node_conn"
+    feature_name = "Node_connectivity"
     print("Calculating " + feature_name + " for " + net_name + "...")
     f = node_connectivity.anc(net)
     print("Done! Time: " + time.strftime("%I:%M:%S"))
@@ -164,14 +164,14 @@ def process_ave_node_connectivity(net, net_name):
 
 
 def process_edge_connectivity(net, net_name):
-    feature_name = "Edge_conn"
+    feature_name = "Edge_connectivity"
     print("Calculating " + feature_name + " for " + net_name + "...")
     f = edge_connectivity.ec(net)
     print("Done! Time: " + time.strftime("%I:%M:%S"))
     return str(f), feature_name 
 
 def process_node_connectivity(net, net_name):
-    feature_name = "Node_conn"
+    feature_name = "Node_connectivity"
     print("Calculating " + feature_name + " for " + net_name + "...")
     f = node_connectivity.nc(net)
     print("Done! Time: " + time.strftime("%I:%M:%S"))

@@ -22,39 +22,61 @@ def process_all_di(network, path_to_net, n, path_to_output):
         Graph must be connected
 	'''
         snet = nx.strongly_connected_component_subgraphs(network)
-
-        f, feature_name = process_eccentricity(snet[0], n)
-        save_feature(path_to_output, f, feature_name)
-
-        f, feature_name = process_diameter(snet[0], n)
-        save_feature(path_to_output, f, feature_name)
-
-        f, feature_name = process_closeness(network, n)
-        save_feature(path_to_output, f, feature_name)
-
-	f, feature_name = process_between(net, n, k=None)
-        save_feature(path_to_output, f, feature_name)
-
-	f, feature_name = process_ave_node_connectivity(net, n)
-        save_feature(path_to_output, f, feature_name)
-
-        f, feature_name = process_density(network, n)
-        save_feature(path_to_output, f, feature_name)
-
-        f, feature_name = process_radius(snet[0], n)
-        save_feature(path_to_output, f, feature_name)
-
-        f, feature_name = process_isolates(network, n)
-        save_feature(path_to_output, f, feature_name)
-
-        f, feature_name = process_pagerank(network, n)
-        save_feature(path_to_output, f, feature_name)
-
-        f, feature_name = process_square_clustering(network, n)
-        save_feature(path_to_output, f, feature_name)
-
-        f, feature_name = process_communicability(net, n)
-        save_feature(path_to_output, f, feature_name)
+	try:
+	        f, feature_name = process_eccentricity(snet[0], n)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Eccentricity did not work!\n')
+	try:
+	        f, feature_name = process_diameter(snet[0], n)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Diameter did not work!\n')
+	try:
+	        f, feature_name = process_closeness(network, n)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Closeness did not work!\n')
+	try:
+		f, feature_name = process_between(net, n, k=None)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Betweeness did not work!\n')
+        try:
+	        f, feature_name = process_density(network, n)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Density did not work!\n')
+	try:	
+	        f, feature_name = process_radius(snet[0], n)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Radius did not work!\n')
+	try:
+	        f, feature_name = process_isolates(network, n)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Isolates did not work!\n')
+	try:
+	        f, feature_name = process_pagerank(network, n)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Pagerank did not work!\n')
+	try:
+	        f, feature_name = process_square_clustering(network, n)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Square clustering did not work!\n')
+	try:
+	        f, feature_name = process_communicability(net, n)
+	        save_feature(path_to_output, f, feature_name, True)
+	except:
+		print('Communicability did not work!\n')	
+	try:
+		f, feature_name = process_ave_node_connectivity(net, n)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Node Connectivity did not work!\n') 
 
 
 
@@ -66,40 +88,63 @@ def process_all_un(network, path_to_net, n, path_to_output):
         Need to connect components
 	'''
 
-
-
 	net = nx.connected_component_subgraphs(network)
-
-	f, feature_name = process_eccentricity(net[0], n) 
-        save_feature(path_to_output, f, feature_name)
-	
-        f, feature_name = process_diameter(net[0], n)
-        save_feature(path_to_output, f, feature_name)
-
-        f, feature_name = process_closeness(network, n)
-        save_feature(path_to_output, f, feature_name)
-
-	f, feature_name = process_between(network, n, k=None)
-        save_feature(path_to_output, f, feature_name)	
-
-	f, feature_name = process_ave_node_connectivity(network, n)
-	save_feature(path_to_output, f, feature_name)
-
-        f, feature_name = process_density(network, n)
-        save_feature(path_to_output, f, feature_name)
+	try:
+	        f, feature_name = process_eccentricity(net[0], n)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Eccentricity did not work!\n')
+	try:
+	        f, feature_name = process_diameter(net[0], n)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Diameter did not work!\n')
+	try:
+	        f, feature_name = process_closeness(network, n)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Closeness did not work!\n')
+	try:
+		f, feature_name = process_between(net, n, k=None)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Betweeness did not work!\n')
+        try:
+	        f, feature_name = process_density(network, n)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Density did not work!\n')
 
         net = net[0].to_directed()
-        f, feature_name = process_radius(net, n)
-        save_feature(path_to_output, f, feature_name)
+	try:	
+	        f, feature_name = process_radius(net[0], n)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Radius did not work!\n')
 
-        f, feature_name = process_isolates(network, n)
-        save_feature(path_to_output, f, feature_name)
+	try:
+	        f, feature_name = process_isolates(network, n)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Isolates did not work!\n')
+	try:
+	        f, feature_name = process_pagerank(network, n)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Pagerank did not work!\n')
+	try:
+	        f, feature_name = process_square_clustering(network, n)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Square clustering did not work!\n')
+	try:
+	        f, feature_name = process_communicability(network, n)
+	        save_feature(path_to_output, f, feature_name, True)
+	except:
+		print('Communicability did not work!\n')
+	try:
+		f, feature_name = process_ave_node_connectivity(net, n)
+        	save_feature(path_to_output, f, feature_name)
+	except:
+		print('Node Connectivity did not work!\n') 	
 
-        f, feature_name = process_pagerank(network, n)
-        save_feature(path_to_output, f, feature_name)
-
-        f, feature_name = process_square_clustering(network, n)
-        save_feature(path_to_output, f, feature_name)
-
-        f, feature_name = process_communicability(network, n)
-        save_feature(path_to_output, f, feature_name)
