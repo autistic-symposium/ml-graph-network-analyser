@@ -1,0 +1,1817 @@
+
+ NO NEIGHBORS! Count: 0
+
+ NO NEIGHBORS! Count: 1
+
+ NO NEIGHBORS! Count: 2
+
+ NO NEIGHBORS! Count: 3
+
+ NO NEIGHBORS! Count: 4
+
+ NO NEIGHBORS! Count: 5
+
+ NO NEIGHBORS! Count: 6
+
+ NO NEIGHBORS! Count: 7
+
+ NO NEIGHBORS! Count: 8
+
+ NO NEIGHBORS! Count: 9
+
+ NO NEIGHBORS! Count: 10
+
+ NO NEIGHBORS! Count: 11
+
+ NO NEIGHBORS! Count: 12
+
+ NO NEIGHBORS! Count: 13
+
+ NO NEIGHBORS! Count: 14
+
+ NO NEIGHBORS! Count: 15
+
+ NO NEIGHBORS! Count: 16
+
+ NO NEIGHBORS! Count: 17
+
+ NO NEIGHBORS! Count: 18
+
+ NO NEIGHBORS! Count: 19
+
+ NO NEIGHBORS! Count: 20
+
+ NO NEIGHBORS! Count: 21
+
+ NO NEIGHBORS! Count: 22
+
+ NO NEIGHBORS! Count: 23
+
+ NO NEIGHBORS! Count: 24
+
+ NO NEIGHBORS! Count: 25
+
+ NO NEIGHBORS! Count: 26
+
+ NO NEIGHBORS! Count: 27
+
+ NO NEIGHBORS! Count: 28
+
+ NO NEIGHBORS! Count: 29
+
+ NO NEIGHBORS! Count: 30
+
+ NO NEIGHBORS! Count: 31
+
+ NO NEIGHBORS! Count: 32
+
+ NO NEIGHBORS! Count: 33
+
+ NO NEIGHBORS! Count: 34
+
+ NO NEIGHBORS! Count: 35
+
+ NO NEIGHBORS! Count: 36
+
+ NO NEIGHBORS! Count: 37
+
+ NO NEIGHBORS! Count: 38
+
+ NO NEIGHBORS! Count: 39
+
+ NO NEIGHBORS! Count: 40
+
+ NO NEIGHBORS! Count: 41
+
+ NO NEIGHBORS! Count: 42
+
+ NO NEIGHBORS! Count: 43
+
+ NO NEIGHBORS! Count: 44
+
+ NO NEIGHBORS! Count: 45
+
+ NO NEIGHBORS! Count: 46
+
+ NO NEIGHBORS! Count: 47
+
+ NO NEIGHBORS! Count: 48
+
+ NO NEIGHBORS! Count: 49
+
+ NO NEIGHBORS! Count: 50
+
+ NO NEIGHBORS! Count: 51
+
+ NO NEIGHBORS! Count: 52
+
+ NO NEIGHBORS! Count: 53
+
+ NO NEIGHBORS! Count: 54
+
+ NO NEIGHBORS! Count: 55
+
+ NO NEIGHBORS! Count: 56
+
+ NO NEIGHBORS! Count: 57
+
+ NO NEIGHBORS! Count: 58
+
+ NO NEIGHBORS! Count: 59
+
+ NO NEIGHBORS! Count: 60
+
+ NO NEIGHBORS! Count: 61
+
+ NO NEIGHBORS! Count: 62
+
+ NO NEIGHBORS! Count: 63
+
+ NO NEIGHBORS! Count: 64
+
+ NO NEIGHBORS! Count: 65
+
+ NO NEIGHBORS! Count: 66
+
+ NO NEIGHBORS! Count: 67
+
+ NO NEIGHBORS! Count: 68
+
+ NO NEIGHBORS! Count: 69
+
+ NO NEIGHBORS! Count: 70
+
+ NO NEIGHBORS! Count: 71
+
+ NO NEIGHBORS! Count: 72
+
+ NO NEIGHBORS! Count: 73
+
+ NO NEIGHBORS! Count: 74
+
+ NO NEIGHBORS! Count: 75
+
+ NO NEIGHBORS! Count: 76
+
+ NO NEIGHBORS! Count: 77
+
+ NO NEIGHBORS! Count: 78
+
+ NO NEIGHBORS! Count: 79
+
+ NO NEIGHBORS! Count: 80
+
+ NO NEIGHBORS! Count: 81
+
+ NO NEIGHBORS! Count: 82
+
+ NO NEIGHBORS! Count: 83
+
+ NO NEIGHBORS! Count: 84
+
+ NO NEIGHBORS! Count: 85
+
+ NO NEIGHBORS! Count: 86
+
+ NO NEIGHBORS! Count: 87
+
+ NO NEIGHBORS! Count: 88
+
+ NO NEIGHBORS! Count: 89
+
+ NO NEIGHBORS! Count: 90
+
+ NO NEIGHBORS! Count: 91
+
+ NO NEIGHBORS! Count: 92
+
+ NO NEIGHBORS! Count: 93
+
+ NO NEIGHBORS! Count: 94
+
+ NO NEIGHBORS! Count: 95
+
+ NO NEIGHBORS! Count: 96
+
+ NO NEIGHBORS! Count: 97
+
+ NO NEIGHBORS! Count: 98
+
+ NO NEIGHBORS! Count: 99
+
+ NO NEIGHBORS! Count: 100
+
+ NO NEIGHBORS! Count: 101
+
+ NO NEIGHBORS! Count: 102
+
+ NO NEIGHBORS! Count: 103
+
+ NO NEIGHBORS! Count: 104
+
+ NO NEIGHBORS! Count: 105
+
+ NO NEIGHBORS! Count: 106
+
+ NO NEIGHBORS! Count: 107
+
+ NO NEIGHBORS! Count: 108
+
+ NO NEIGHBORS! Count: 109
+
+ NO NEIGHBORS! Count: 110
+
+ NO NEIGHBORS! Count: 111
+
+ NO NEIGHBORS! Count: 112
+
+ NO NEIGHBORS! Count: 113
+
+ NO NEIGHBORS! Count: 114
+
+ NO NEIGHBORS! Count: 115
+
+ NO NEIGHBORS! Count: 116
+
+ NO NEIGHBORS! Count: 117
+
+ NO NEIGHBORS! Count: 118
+
+ NO NEIGHBORS! Count: 119
+
+ NO NEIGHBORS! Count: 120
+
+ NO NEIGHBORS! Count: 121
+
+ NO NEIGHBORS! Count: 122
+
+ NO NEIGHBORS! Count: 123
+
+ NO NEIGHBORS! Count: 124
+
+ NO NEIGHBORS! Count: 125
+
+ NO NEIGHBORS! Count: 126
+
+ NO NEIGHBORS! Count: 127
+
+ NO NEIGHBORS! Count: 128
+
+ NO NEIGHBORS! Count: 129
+
+ NO NEIGHBORS! Count: 130
+
+ NO NEIGHBORS! Count: 131
+
+ NO NEIGHBORS! Count: 132
+
+ NO NEIGHBORS! Count: 133
+
+ NO NEIGHBORS! Count: 134
+
+ NO NEIGHBORS! Count: 135
+
+ NO NEIGHBORS! Count: 136
+
+ NO NEIGHBORS! Count: 137
+
+ NO NEIGHBORS! Count: 138
+
+ NO NEIGHBORS! Count: 139
+
+ NO NEIGHBORS! Count: 140
+
+ NO NEIGHBORS! Count: 141
+
+ NO NEIGHBORS! Count: 142
+
+ NO NEIGHBORS! Count: 143
+
+ NO NEIGHBORS! Count: 144
+
+ NO NEIGHBORS! Count: 145
+
+ NO NEIGHBORS! Count: 146
+
+ NO NEIGHBORS! Count: 147
+
+ NO NEIGHBORS! Count: 148
+
+ NO NEIGHBORS! Count: 149
+
+ NO NEIGHBORS! Count: 150
+
+ NO NEIGHBORS! Count: 151
+
+ NO NEIGHBORS! Count: 152
+
+ NO NEIGHBORS! Count: 153
+
+ NO NEIGHBORS! Count: 154
+
+ NO NEIGHBORS! Count: 155
+
+ NO NEIGHBORS! Count: 156
+
+ NO NEIGHBORS! Count: 157
+
+ NO NEIGHBORS! Count: 158
+
+ NO NEIGHBORS! Count: 159
+
+ NO NEIGHBORS! Count: 160
+
+ NO NEIGHBORS! Count: 161
+
+ NO NEIGHBORS! Count: 162
+
+ NO NEIGHBORS! Count: 163
+
+ NO NEIGHBORS! Count: 164
+
+ NO NEIGHBORS! Count: 165
+
+ NO NEIGHBORS! Count: 166
+
+ NO NEIGHBORS! Count: 167
+
+ NO NEIGHBORS! Count: 168
+
+ NO NEIGHBORS! Count: 169
+
+ NO NEIGHBORS! Count: 170
+
+ NO NEIGHBORS! Count: 171
+
+ NO NEIGHBORS! Count: 172
+
+ NO NEIGHBORS! Count: 173
+
+ NO NEIGHBORS! Count: 174
+
+ NO NEIGHBORS! Count: 175
+
+ NO NEIGHBORS! Count: 176
+
+ NO NEIGHBORS! Count: 177
+
+ NO NEIGHBORS! Count: 178
+
+ NO NEIGHBORS! Count: 179
+
+ NO NEIGHBORS! Count: 180
+
+ NO NEIGHBORS! Count: 181
+
+ NO NEIGHBORS! Count: 182
+
+ NO NEIGHBORS! Count: 183
+
+ NO NEIGHBORS! Count: 184
+
+ NO NEIGHBORS! Count: 185
+
+ NO NEIGHBORS! Count: 186
+
+ NO NEIGHBORS! Count: 187
+
+ NO NEIGHBORS! Count: 188
+
+ NO NEIGHBORS! Count: 189
+
+ NO NEIGHBORS! Count: 190
+
+ NO NEIGHBORS! Count: 191
+
+ NO NEIGHBORS! Count: 192
+
+ NO NEIGHBORS! Count: 193
+
+ NO NEIGHBORS! Count: 194
+
+ NO NEIGHBORS! Count: 195
+
+ NO NEIGHBORS! Count: 196
+
+ NO NEIGHBORS! Count: 197
+
+ NO NEIGHBORS! Count: 198
+
+ NO NEIGHBORS! Count: 199
+
+ NO NEIGHBORS! Count: 200
+
+ NO NEIGHBORS! Count: 201
+
+ NO NEIGHBORS! Count: 202
+
+ NO NEIGHBORS! Count: 203
+
+ NO NEIGHBORS! Count: 204
+
+ NO NEIGHBORS! Count: 205
+
+ NO NEIGHBORS! Count: 206
+
+ NO NEIGHBORS! Count: 207
+
+ NO NEIGHBORS! Count: 208
+
+ NO NEIGHBORS! Count: 209
+
+ NO NEIGHBORS! Count: 210
+
+ NO NEIGHBORS! Count: 211
+
+ NO NEIGHBORS! Count: 212
+
+ NO NEIGHBORS! Count: 213
+
+ NO NEIGHBORS! Count: 214
+
+ NO NEIGHBORS! Count: 215
+
+ NO NEIGHBORS! Count: 216
+
+ NO NEIGHBORS! Count: 217
+
+ NO NEIGHBORS! Count: 218
+
+ NO NEIGHBORS! Count: 219
+
+ NO NEIGHBORS! Count: 220
+
+ NO NEIGHBORS! Count: 221
+
+ NO NEIGHBORS! Count: 222
+
+ NO NEIGHBORS! Count: 223
+
+ NO NEIGHBORS! Count: 224
+
+ NO NEIGHBORS! Count: 225
+
+ NO NEIGHBORS! Count: 226
+
+ NO NEIGHBORS! Count: 227
+
+ NO NEIGHBORS! Count: 228
+
+ NO NEIGHBORS! Count: 229
+
+ NO NEIGHBORS! Count: 230
+
+ NO NEIGHBORS! Count: 231
+
+ NO NEIGHBORS! Count: 232
+
+ NO NEIGHBORS! Count: 233
+
+ NO NEIGHBORS! Count: 234
+
+ NO NEIGHBORS! Count: 235
+
+ NO NEIGHBORS! Count: 236
+
+ NO NEIGHBORS! Count: 237
+
+ NO NEIGHBORS! Count: 238
+
+ NO NEIGHBORS! Count: 239
+
+ NO NEIGHBORS! Count: 240
+
+ NO NEIGHBORS! Count: 241
+
+ NO NEIGHBORS! Count: 242
+
+ NO NEIGHBORS! Count: 243
+
+ NO NEIGHBORS! Count: 244
+
+ NO NEIGHBORS! Count: 245
+
+ NO NEIGHBORS! Count: 246
+
+ NO NEIGHBORS! Count: 247
+
+ NO NEIGHBORS! Count: 248
+
+ NO NEIGHBORS! Count: 249
+
+ NO NEIGHBORS! Count: 250
+
+ NO NEIGHBORS! Count: 251
+
+ NO NEIGHBORS! Count: 252
+
+ NO NEIGHBORS! Count: 253
+
+ NO NEIGHBORS! Count: 254
+
+ NO NEIGHBORS! Count: 255
+
+ NO NEIGHBORS! Count: 256
+
+ NO NEIGHBORS! Count: 257
+
+ NO NEIGHBORS! Count: 258
+
+ NO NEIGHBORS! Count: 259
+
+ NO NEIGHBORS! Count: 260
+
+ NO NEIGHBORS! Count: 261
+
+ NO NEIGHBORS! Count: 262
+
+ NO NEIGHBORS! Count: 263
+
+ NO NEIGHBORS! Count: 264
+
+ NO NEIGHBORS! Count: 265
+
+ NO NEIGHBORS! Count: 266
+
+ NO NEIGHBORS! Count: 267
+
+ NO NEIGHBORS! Count: 268
+
+ NO NEIGHBORS! Count: 269
+
+ NO NEIGHBORS! Count: 270
+
+ NO NEIGHBORS! Count: 271
+
+ NO NEIGHBORS! Count: 272
+
+ NO NEIGHBORS! Count: 273
+
+ NO NEIGHBORS! Count: 274
+
+ NO NEIGHBORS! Count: 275
+
+ NO NEIGHBORS! Count: 276
+
+ NO NEIGHBORS! Count: 277
+
+ NO NEIGHBORS! Count: 278
+
+ NO NEIGHBORS! Count: 279
+
+ NO NEIGHBORS! Count: 280
+
+ NO NEIGHBORS! Count: 281
+
+ NO NEIGHBORS! Count: 282
+
+ NO NEIGHBORS! Count: 283
+
+ NO NEIGHBORS! Count: 284
+
+ NO NEIGHBORS! Count: 285
+
+ NO NEIGHBORS! Count: 286
+
+ NO NEIGHBORS! Count: 287
+
+ NO NEIGHBORS! Count: 288
+
+ NO NEIGHBORS! Count: 289
+
+ NO NEIGHBORS! Count: 290
+
+ NO NEIGHBORS! Count: 291
+
+ NO NEIGHBORS! Count: 292
+
+ NO NEIGHBORS! Count: 293
+
+ NO NEIGHBORS! Count: 294
+
+ NO NEIGHBORS! Count: 295
+
+ NO NEIGHBORS! Count: 296
+
+ NO NEIGHBORS! Count: 297
+
+ NO NEIGHBORS! Count: 298
+
+ NO NEIGHBORS! Count: 299
+
+ NO NEIGHBORS! Count: 300
+
+ NO NEIGHBORS! Count: 301
+
+ NO NEIGHBORS! Count: 302
+
+ NO NEIGHBORS! Count: 303
+
+ NO NEIGHBORS! Count: 304
+
+ NO NEIGHBORS! Count: 305
+
+ NO NEIGHBORS! Count: 306
+
+ NO NEIGHBORS! Count: 307
+
+ NO NEIGHBORS! Count: 308
+
+ NO NEIGHBORS! Count: 309
+
+ NO NEIGHBORS! Count: 310
+
+ NO NEIGHBORS! Count: 311
+
+ NO NEIGHBORS! Count: 312
+
+ NO NEIGHBORS! Count: 313
+
+ NO NEIGHBORS! Count: 314
+
+ NO NEIGHBORS! Count: 315
+
+ NO NEIGHBORS! Count: 316
+
+ NO NEIGHBORS! Count: 317
+
+ NO NEIGHBORS! Count: 318
+
+ NO NEIGHBORS! Count: 319
+
+ NO NEIGHBORS! Count: 320
+
+ NO NEIGHBORS! Count: 321
+
+ NO NEIGHBORS! Count: 322
+
+ NO NEIGHBORS! Count: 323
+
+ NO NEIGHBORS! Count: 324
+
+ NO NEIGHBORS! Count: 325
+
+ NO NEIGHBORS! Count: 326
+
+ NO NEIGHBORS! Count: 327
+
+ NO NEIGHBORS! Count: 328
+
+ NO NEIGHBORS! Count: 329
+
+ NO NEIGHBORS! Count: 330
+
+ NO NEIGHBORS! Count: 331
+
+ NO NEIGHBORS! Count: 332
+
+ NO NEIGHBORS! Count: 333
+
+ NO NEIGHBORS! Count: 334
+
+ NO NEIGHBORS! Count: 335
+
+ NO NEIGHBORS! Count: 336
+
+ NO NEIGHBORS! Count: 337
+
+ NO NEIGHBORS! Count: 338
+
+ NO NEIGHBORS! Count: 339
+
+ NO NEIGHBORS! Count: 340
+
+ NO NEIGHBORS! Count: 341
+
+ NO NEIGHBORS! Count: 342
+
+ NO NEIGHBORS! Count: 343
+
+ NO NEIGHBORS! Count: 344
+
+ NO NEIGHBORS! Count: 345
+
+ NO NEIGHBORS! Count: 346
+
+ NO NEIGHBORS! Count: 347
+
+ NO NEIGHBORS! Count: 348
+
+ NO NEIGHBORS! Count: 349
+
+ NO NEIGHBORS! Count: 350
+
+ NO NEIGHBORS! Count: 351
+
+ NO NEIGHBORS! Count: 352
+
+ NO NEIGHBORS! Count: 353
+
+ NO NEIGHBORS! Count: 354
+
+ NO NEIGHBORS! Count: 355
+
+ NO NEIGHBORS! Count: 356
+
+ NO NEIGHBORS! Count: 357
+
+ NO NEIGHBORS! Count: 358
+
+ NO NEIGHBORS! Count: 359
+
+ NO NEIGHBORS! Count: 360
+
+ NO NEIGHBORS! Count: 361
+
+ NO NEIGHBORS! Count: 362
+
+ NO NEIGHBORS! Count: 363
+
+ NO NEIGHBORS! Count: 364
+
+ NO NEIGHBORS! Count: 365
+
+ NO NEIGHBORS! Count: 366
+
+ NO NEIGHBORS! Count: 367
+
+ NO NEIGHBORS! Count: 368
+
+ NO NEIGHBORS! Count: 369
+
+ NO NEIGHBORS! Count: 370
+
+ NO NEIGHBORS! Count: 371
+
+ NO NEIGHBORS! Count: 372
+
+ NO NEIGHBORS! Count: 373
+
+ NO NEIGHBORS! Count: 374
+
+ NO NEIGHBORS! Count: 375
+
+ NO NEIGHBORS! Count: 376
+
+ NO NEIGHBORS! Count: 377
+
+ NO NEIGHBORS! Count: 378
+
+ NO NEIGHBORS! Count: 379
+
+ NO NEIGHBORS! Count: 380
+
+ NO NEIGHBORS! Count: 381
+
+ NO NEIGHBORS! Count: 382
+
+ NO NEIGHBORS! Count: 383
+
+ NO NEIGHBORS! Count: 384
+
+ NO NEIGHBORS! Count: 385
+
+ NO NEIGHBORS! Count: 386
+
+ NO NEIGHBORS! Count: 387
+
+ NO NEIGHBORS! Count: 388
+
+ NO NEIGHBORS! Count: 389
+
+ NO NEIGHBORS! Count: 390
+
+ NO NEIGHBORS! Count: 391
+
+ NO NEIGHBORS! Count: 392
+
+ NO NEIGHBORS! Count: 393
+
+ NO NEIGHBORS! Count: 394
+
+ NO NEIGHBORS! Count: 395
+
+ NO NEIGHBORS! Count: 396
+
+ NO NEIGHBORS! Count: 397
+
+ NO NEIGHBORS! Count: 398
+
+ NO NEIGHBORS! Count: 399
+
+ NO NEIGHBORS! Count: 400
+
+ NO NEIGHBORS! Count: 401
+
+ NO NEIGHBORS! Count: 402
+
+ NO NEIGHBORS! Count: 403
+
+ NO NEIGHBORS! Count: 404
+
+ NO NEIGHBORS! Count: 405
+
+ NO NEIGHBORS! Count: 406
+
+ NO NEIGHBORS! Count: 407
+
+ NO NEIGHBORS! Count: 408
+
+ NO NEIGHBORS! Count: 409
+
+ NO NEIGHBORS! Count: 410
+
+ NO NEIGHBORS! Count: 411
+
+ NO NEIGHBORS! Count: 412
+
+ NO NEIGHBORS! Count: 413
+
+ NO NEIGHBORS! Count: 414
+
+ NO NEIGHBORS! Count: 415
+
+ NO NEIGHBORS! Count: 416
+
+ NO NEIGHBORS! Count: 417
+
+ NO NEIGHBORS! Count: 418
+
+ NO NEIGHBORS! Count: 419
+
+ NO NEIGHBORS! Count: 420
+
+ NO NEIGHBORS! Count: 421
+
+ NO NEIGHBORS! Count: 422
+
+ NO NEIGHBORS! Count: 423
+
+ NO NEIGHBORS! Count: 424
+
+ NO NEIGHBORS! Count: 425
+
+ NO NEIGHBORS! Count: 426
+
+ NO NEIGHBORS! Count: 427
+
+ NO NEIGHBORS! Count: 428
+
+ NO NEIGHBORS! Count: 429
+
+ NO NEIGHBORS! Count: 430
+
+ NO NEIGHBORS! Count: 431
+
+ NO NEIGHBORS! Count: 432
+
+ NO NEIGHBORS! Count: 433
+
+ NO NEIGHBORS! Count: 434
+
+ NO NEIGHBORS! Count: 435
+
+ NO NEIGHBORS! Count: 436
+
+ NO NEIGHBORS! Count: 437
+
+ NO NEIGHBORS! Count: 438
+
+ NO NEIGHBORS! Count: 439
+
+ NO NEIGHBORS! Count: 440
+
+ NO NEIGHBORS! Count: 441
+
+ NO NEIGHBORS! Count: 442
+
+ NO NEIGHBORS! Count: 443
+
+ NO NEIGHBORS! Count: 444
+
+ NO NEIGHBORS! Count: 445
+
+ NO NEIGHBORS! Count: 446
+
+ NO NEIGHBORS! Count: 447
+
+ NO NEIGHBORS! Count: 448
+
+ NO NEIGHBORS! Count: 449
+
+ NO NEIGHBORS! Count: 450
+
+ NO NEIGHBORS! Count: 451
+
+ NO NEIGHBORS! Count: 452
+
+ NO NEIGHBORS! Count: 453
+
+ NO NEIGHBORS! Count: 454
+
+ NO NEIGHBORS! Count: 455
+
+ NO NEIGHBORS! Count: 456
+
+ NO NEIGHBORS! Count: 457
+
+ NO NEIGHBORS! Count: 458
+
+ NO NEIGHBORS! Count: 459
+
+ NO NEIGHBORS! Count: 460
+
+ NO NEIGHBORS! Count: 461
+
+ NO NEIGHBORS! Count: 462
+
+ NO NEIGHBORS! Count: 463
+
+ NO NEIGHBORS! Count: 464
+
+ NO NEIGHBORS! Count: 465
+
+ NO NEIGHBORS! Count: 466
+
+ NO NEIGHBORS! Count: 467
+
+ NO NEIGHBORS! Count: 468
+
+ NO NEIGHBORS! Count: 469
+
+ NO NEIGHBORS! Count: 470
+
+ NO NEIGHBORS! Count: 471
+
+ NO NEIGHBORS! Count: 472
+
+ NO NEIGHBORS! Count: 473
+
+ NO NEIGHBORS! Count: 474
+
+ NO NEIGHBORS! Count: 475
+
+ NO NEIGHBORS! Count: 476
+
+ NO NEIGHBORS! Count: 477
+
+ NO NEIGHBORS! Count: 478
+
+ NO NEIGHBORS! Count: 479
+
+ NO NEIGHBORS! Count: 480
+
+ NO NEIGHBORS! Count: 481
+
+ NO NEIGHBORS! Count: 482
+
+ NO NEIGHBORS! Count: 483
+
+ NO NEIGHBORS! Count: 484
+
+ NO NEIGHBORS! Count: 485
+
+ NO NEIGHBORS! Count: 486
+
+ NO NEIGHBORS! Count: 487
+
+ NO NEIGHBORS! Count: 488
+
+ NO NEIGHBORS! Count: 489
+
+ NO NEIGHBORS! Count: 490
+
+ NO NEIGHBORS! Count: 491
+
+ NO NEIGHBORS! Count: 492
+
+ NO NEIGHBORS! Count: 493
+
+ NO NEIGHBORS! Count: 494
+
+ NO NEIGHBORS! Count: 495
+
+ NO NEIGHBORS! Count: 496
+
+ NO NEIGHBORS! Count: 497
+
+ NO NEIGHBORS! Count: 498
+
+ NO NEIGHBORS! Count: 499
+
+ NO NEIGHBORS! Count: 500
+
+ NO NEIGHBORS! Count: 501
+
+ NO NEIGHBORS! Count: 502
+
+ NO NEIGHBORS! Count: 503
+
+ NO NEIGHBORS! Count: 504
+
+ NO NEIGHBORS! Count: 505
+
+ NO NEIGHBORS! Count: 506
+
+ NO NEIGHBORS! Count: 507
+
+ NO NEIGHBORS! Count: 508
+
+ NO NEIGHBORS! Count: 509
+
+ NO NEIGHBORS! Count: 510
+
+ NO NEIGHBORS! Count: 511
+
+ NO NEIGHBORS! Count: 512
+
+ NO NEIGHBORS! Count: 513
+
+ NO NEIGHBORS! Count: 514
+
+ NO NEIGHBORS! Count: 515
+
+ NO NEIGHBORS! Count: 516
+
+ NO NEIGHBORS! Count: 517
+
+ NO NEIGHBORS! Count: 518
+
+ NO NEIGHBORS! Count: 519
+
+ NO NEIGHBORS! Count: 520
+
+ NO NEIGHBORS! Count: 521
+
+ NO NEIGHBORS! Count: 522
+
+ NO NEIGHBORS! Count: 523
+
+ NO NEIGHBORS! Count: 524
+
+ NO NEIGHBORS! Count: 525
+
+ NO NEIGHBORS! Count: 526
+
+ NO NEIGHBORS! Count: 527
+
+ NO NEIGHBORS! Count: 528
+
+ NO NEIGHBORS! Count: 529
+
+ NO NEIGHBORS! Count: 530
+
+ NO NEIGHBORS! Count: 531
+
+ NO NEIGHBORS! Count: 532
+
+ NO NEIGHBORS! Count: 533
+
+ NO NEIGHBORS! Count: 534
+
+ NO NEIGHBORS! Count: 535
+
+ NO NEIGHBORS! Count: 536
+
+ NO NEIGHBORS! Count: 537
+
+ NO NEIGHBORS! Count: 538
+
+ NO NEIGHBORS! Count: 539
+
+ NO NEIGHBORS! Count: 540
+
+ NO NEIGHBORS! Count: 541
+
+ NO NEIGHBORS! Count: 542
+
+ NO NEIGHBORS! Count: 543
+
+ NO NEIGHBORS! Count: 544
+
+ NO NEIGHBORS! Count: 545
+
+ NO NEIGHBORS! Count: 546
+
+ NO NEIGHBORS! Count: 547
+
+ NO NEIGHBORS! Count: 548
+
+ NO NEIGHBORS! Count: 549
+
+ NO NEIGHBORS! Count: 550
+
+ NO NEIGHBORS! Count: 551
+
+ NO NEIGHBORS! Count: 552
+
+ NO NEIGHBORS! Count: 553
+
+ NO NEIGHBORS! Count: 554
+
+ NO NEIGHBORS! Count: 555
+
+ NO NEIGHBORS! Count: 556
+
+ NO NEIGHBORS! Count: 557
+
+ NO NEIGHBORS! Count: 558
+
+ NO NEIGHBORS! Count: 559
+
+ NO NEIGHBORS! Count: 560
+
+ NO NEIGHBORS! Count: 561
+
+ NO NEIGHBORS! Count: 562
+
+ NO NEIGHBORS! Count: 563
+
+ NO NEIGHBORS! Count: 564
+
+ NO NEIGHBORS! Count: 565
+
+ NO NEIGHBORS! Count: 566
+
+ NO NEIGHBORS! Count: 567
+
+ NO NEIGHBORS! Count: 568
+
+ NO NEIGHBORS! Count: 569
+
+ NO NEIGHBORS! Count: 570
+
+ NO NEIGHBORS! Count: 571
+
+ NO NEIGHBORS! Count: 572
+
+ NO NEIGHBORS! Count: 573
+
+ NO NEIGHBORS! Count: 574
+
+ NO NEIGHBORS! Count: 575
+
+ NO NEIGHBORS! Count: 576
+
+ NO NEIGHBORS! Count: 577
+
+ NO NEIGHBORS! Count: 578
+
+ NO NEIGHBORS! Count: 579
+
+ NO NEIGHBORS! Count: 580
+
+ NO NEIGHBORS! Count: 581
+
+ NO NEIGHBORS! Count: 582
+
+ NO NEIGHBORS! Count: 583
+
+ NO NEIGHBORS! Count: 584
+
+ NO NEIGHBORS! Count: 585
+
+ NO NEIGHBORS! Count: 586
+
+ NO NEIGHBORS! Count: 587
+
+ NO NEIGHBORS! Count: 588
+
+ NO NEIGHBORS! Count: 589
+
+ NO NEIGHBORS! Count: 590
+
+ NO NEIGHBORS! Count: 591
+
+ NO NEIGHBORS! Count: 592
+
+ NO NEIGHBORS! Count: 593
+
+ NO NEIGHBORS! Count: 594
+
+ NO NEIGHBORS! Count: 595
+
+ NO NEIGHBORS! Count: 596
+
+ NO NEIGHBORS! Count: 597
+
+ NO NEIGHBORS! Count: 598
+
+ NO NEIGHBORS! Count: 599
+
+ NO NEIGHBORS! Count: 600
+
+ NO NEIGHBORS! Count: 601
+
+ NO NEIGHBORS! Count: 602
+
+ NO NEIGHBORS! Count: 603
+
+ NO NEIGHBORS! Count: 604
+
+ NO NEIGHBORS! Count: 605
+
+ NO NEIGHBORS! Count: 606
+
+ NO NEIGHBORS! Count: 607
+
+ NO NEIGHBORS! Count: 608
+
+ NO NEIGHBORS! Count: 609
+
+ NO NEIGHBORS! Count: 610
+
+ NO NEIGHBORS! Count: 611
+
+ NO NEIGHBORS! Count: 612
+
+ NO NEIGHBORS! Count: 613
+
+ NO NEIGHBORS! Count: 614
+
+ NO NEIGHBORS! Count: 615
+
+ NO NEIGHBORS! Count: 616
+
+ NO NEIGHBORS! Count: 617
+
+ NO NEIGHBORS! Count: 618
+
+ NO NEIGHBORS! Count: 619
+
+ NO NEIGHBORS! Count: 620
+
+ NO NEIGHBORS! Count: 621
+
+ NO NEIGHBORS! Count: 622
+
+ NO NEIGHBORS! Count: 623
+
+ NO NEIGHBORS! Count: 624
+
+ NO NEIGHBORS! Count: 625
+
+ NO NEIGHBORS! Count: 626
+
+ NO NEIGHBORS! Count: 627
+
+ NO NEIGHBORS! Count: 628
+
+ NO NEIGHBORS! Count: 629
+
+ NO NEIGHBORS! Count: 630
+
+ NO NEIGHBORS! Count: 631
+
+ NO NEIGHBORS! Count: 632
+
+ NO NEIGHBORS! Count: 633
+
+ NO NEIGHBORS! Count: 634
+
+ NO NEIGHBORS! Count: 635
+
+ NO NEIGHBORS! Count: 636
+
+ NO NEIGHBORS! Count: 637
+
+ NO NEIGHBORS! Count: 638
+
+ NO NEIGHBORS! Count: 639
+
+ NO NEIGHBORS! Count: 640
+
+ NO NEIGHBORS! Count: 641
+
+ NO NEIGHBORS! Count: 642
+
+ NO NEIGHBORS! Count: 643
+
+ NO NEIGHBORS! Count: 644
+
+ NO NEIGHBORS! Count: 645
+
+ NO NEIGHBORS! Count: 646
+
+ NO NEIGHBORS! Count: 647
+
+ NO NEIGHBORS! Count: 648
+
+ NO NEIGHBORS! Count: 649
+
+ NO NEIGHBORS! Count: 650
+
+ NO NEIGHBORS! Count: 651
+
+ NO NEIGHBORS! Count: 652
+
+ NO NEIGHBORS! Count: 653
+
+ NO NEIGHBORS! Count: 654
+
+ NO NEIGHBORS! Count: 655
+
+ NO NEIGHBORS! Count: 656
+
+ NO NEIGHBORS! Count: 657
+
+ NO NEIGHBORS! Count: 658
+
+ NO NEIGHBORS! Count: 659
+
+ NO NEIGHBORS! Count: 660
+
+ NO NEIGHBORS! Count: 661
+
+ NO NEIGHBORS! Count: 662
+
+ NO NEIGHBORS! Count: 663
+
+ NO NEIGHBORS! Count: 664
+
+ NO NEIGHBORS! Count: 665
+
+ NO NEIGHBORS! Count: 666
+
+ NO NEIGHBORS! Count: 667
+
+ NO NEIGHBORS! Count: 668
+
+ NO NEIGHBORS! Count: 669
+
+ NO NEIGHBORS! Count: 670
+
+ NO NEIGHBORS! Count: 671
+
+ NO NEIGHBORS! Count: 672
+
+ NO NEIGHBORS! Count: 673
+
+ NO NEIGHBORS! Count: 674
+
+ NO NEIGHBORS! Count: 675
+
+ NO NEIGHBORS! Count: 676
+
+ NO NEIGHBORS! Count: 677
+
+ NO NEIGHBORS! Count: 678
+
+ NO NEIGHBORS! Count: 679
+
+ NO NEIGHBORS! Count: 680
+
+ NO NEIGHBORS! Count: 681
+
+ NO NEIGHBORS! Count: 682
+
+ NO NEIGHBORS! Count: 683
+
+ NO NEIGHBORS! Count: 684
+
+ NO NEIGHBORS! Count: 685
+
+ NO NEIGHBORS! Count: 686
+
+ NO NEIGHBORS! Count: 687
+
+ NO NEIGHBORS! Count: 688
+
+ NO NEIGHBORS! Count: 689
+
+ NO NEIGHBORS! Count: 690
+
+ NO NEIGHBORS! Count: 691
+
+ NO NEIGHBORS! Count: 692
+
+ NO NEIGHBORS! Count: 693
+
+ NO NEIGHBORS! Count: 694
+
+ NO NEIGHBORS! Count: 695
+
+ NO NEIGHBORS! Count: 696
+
+ NO NEIGHBORS! Count: 697
+
+ NO NEIGHBORS! Count: 698
+
+ NO NEIGHBORS! Count: 699
+
+ NO NEIGHBORS! Count: 700
+
+ NO NEIGHBORS! Count: 701
+
+ NO NEIGHBORS! Count: 702
+
+ NO NEIGHBORS! Count: 703
+
+ NO NEIGHBORS! Count: 704
+
+ NO NEIGHBORS! Count: 705
+
+ NO NEIGHBORS! Count: 706
+
+ NO NEIGHBORS! Count: 707
+
+ NO NEIGHBORS! Count: 708
+
+ NO NEIGHBORS! Count: 709
+
+ NO NEIGHBORS! Count: 710
+
+ NO NEIGHBORS! Count: 711
+
+ NO NEIGHBORS! Count: 712
+
+ NO NEIGHBORS! Count: 713
+
+ NO NEIGHBORS! Count: 714
+
+ NO NEIGHBORS! Count: 715
+
+ NO NEIGHBORS! Count: 716
+
+ NO NEIGHBORS! Count: 717
+
+ NO NEIGHBORS! Count: 718
+
+ NO NEIGHBORS! Count: 719
+
+ NO NEIGHBORS! Count: 720
+
+ NO NEIGHBORS! Count: 721
+
+ NO NEIGHBORS! Count: 722
+
+ NO NEIGHBORS! Count: 723
+
+ NO NEIGHBORS! Count: 724
+
+ NO NEIGHBORS! Count: 725
+
+ NO NEIGHBORS! Count: 726
+
+ NO NEIGHBORS! Count: 727
+
+ NO NEIGHBORS! Count: 728
+
+ NO NEIGHBORS! Count: 729
+
+ NO NEIGHBORS! Count: 730
+
+ NO NEIGHBORS! Count: 731
+
+ NO NEIGHBORS! Count: 732
+
+ NO NEIGHBORS! Count: 733
+
+ NO NEIGHBORS! Count: 734
+
+ NO NEIGHBORS! Count: 735
+
+ NO NEIGHBORS! Count: 736
+
+ NO NEIGHBORS! Count: 737
+
+ NO NEIGHBORS! Count: 738
+
+ NO NEIGHBORS! Count: 739
+
+ NO NEIGHBORS! Count: 740
+
+ NO NEIGHBORS! Count: 741
+
+ NO NEIGHBORS! Count: 742
+
+ NO NEIGHBORS! Count: 743
+
+ NO NEIGHBORS! Count: 744
+
+ NO NEIGHBORS! Count: 745
+
+ NO NEIGHBORS! Count: 746
+
+ NO NEIGHBORS! Count: 747
+
+ NO NEIGHBORS! Count: 748
+
+ NO NEIGHBORS! Count: 749
+
+ NO NEIGHBORS! Count: 750
+
+ NO NEIGHBORS! Count: 751
+
+ NO NEIGHBORS! Count: 752
+
+ NO NEIGHBORS! Count: 753
+
+ NO NEIGHBORS! Count: 754
+
+ NO NEIGHBORS! Count: 755
+
+ NO NEIGHBORS! Count: 756
+
+ NO NEIGHBORS! Count: 757
+
+ NO NEIGHBORS! Count: 758
+
+ NO NEIGHBORS! Count: 759
+
+ NO NEIGHBORS! Count: 760
+
+ NO NEIGHBORS! Count: 761
+
+ NO NEIGHBORS! Count: 762
+
+ NO NEIGHBORS! Count: 763
+
+ NO NEIGHBORS! Count: 764
+
+ NO NEIGHBORS! Count: 765
+
+ NO NEIGHBORS! Count: 766
+
+ NO NEIGHBORS! Count: 767
+
+ NO NEIGHBORS! Count: 768
+
+ NO NEIGHBORS! Count: 769
+
+ NO NEIGHBORS! Count: 770
+
+ NO NEIGHBORS! Count: 771
+
+ NO NEIGHBORS! Count: 772
+
+ NO NEIGHBORS! Count: 773
+
+ NO NEIGHBORS! Count: 774
+
+ NO NEIGHBORS! Count: 775
+
+ NO NEIGHBORS! Count: 776
+
+ NO NEIGHBORS! Count: 777
+
+ NO NEIGHBORS! Count: 778
+
+ NO NEIGHBORS! Count: 779
+
+ NO NEIGHBORS! Count: 780
+
+ NO NEIGHBORS! Count: 781
+
+ NO NEIGHBORS! Count: 782
+
+ NO NEIGHBORS! Count: 783
+
+ NO NEIGHBORS! Count: 784
+
+ NO NEIGHBORS! Count: 785
+
+ NO NEIGHBORS! Count: 786
+
+ NO NEIGHBORS! Count: 787
+
+ NO NEIGHBORS! Count: 788
+
+ NO NEIGHBORS! Count: 789
+
+ NO NEIGHBORS! Count: 790
+
+ NO NEIGHBORS! Count: 791
+
+ NO NEIGHBORS! Count: 792
+
+ NO NEIGHBORS! Count: 793
+
+ NO NEIGHBORS! Count: 794
+
+ NO NEIGHBORS! Count: 795
+
+ NO NEIGHBORS! Count: 796
+
+ NO NEIGHBORS! Count: 797
+
+ NO NEIGHBORS! Count: 798
+
+ NO NEIGHBORS! Count: 799
+
+ NO NEIGHBORS! Count: 800
+
+ NO NEIGHBORS! Count: 801
+
+ NO NEIGHBORS! Count: 802
+
+ NO NEIGHBORS! Count: 803
+
+ NO NEIGHBORS! Count: 804
+
+ NO NEIGHBORS! Count: 805
+
+ NO NEIGHBORS! Count: 806
+
+ NO NEIGHBORS! Count: 807
+
+ NO NEIGHBORS! Count: 808
+
+ NO NEIGHBORS! Count: 809
+
+ NO NEIGHBORS! Count: 810
+
+ NO NEIGHBORS! Count: 811
+
+ NO NEIGHBORS! Count: 812
+
+ NO NEIGHBORS! Count: 813
+
+ NO NEIGHBORS! Count: 814
+
+ NO NEIGHBORS! Count: 815
+
+ NO NEIGHBORS! Count: 816
+
+ NO NEIGHBORS! Count: 817
+
+ NO NEIGHBORS! Count: 818
+
+ NO NEIGHBORS! Count: 819
+
+ NO NEIGHBORS! Count: 820
+
+ NO NEIGHBORS! Count: 821
+
+ NO NEIGHBORS! Count: 822
+
+ NO NEIGHBORS! Count: 823
+
+ NO NEIGHBORS! Count: 824
+
+ NO NEIGHBORS! Count: 825
+
+ NO NEIGHBORS! Count: 826
+
+ NO NEIGHBORS! Count: 827
+
+ NO NEIGHBORS! Count: 828
+
+ NO NEIGHBORS! Count: 829
+
+ NO NEIGHBORS! Count: 830
+
+ NO NEIGHBORS! Count: 831
+
+ NO NEIGHBORS! Count: 832
+
+ NO NEIGHBORS! Count: 833
+
+ NO NEIGHBORS! Count: 834
+
+ NO NEIGHBORS! Count: 835
+
+ NO NEIGHBORS! Count: 836
+
+ NO NEIGHBORS! Count: 837
+
+ NO NEIGHBORS! Count: 838
+
+ NO NEIGHBORS! Count: 839
+
+ NO NEIGHBORS! Count: 840
+
+ NO NEIGHBORS! Count: 841
+
+ NO NEIGHBORS! Count: 842
+
+ NO NEIGHBORS! Count: 843
+
+ NO NEIGHBORS! Count: 844
+
+ NO NEIGHBORS! Count: 845
+
+ NO NEIGHBORS! Count: 846
+
+ NO NEIGHBORS! Count: 847
+
+ NO NEIGHBORS! Count: 848
+
+ NO NEIGHBORS! Count: 849
+
+ NO NEIGHBORS! Count: 850
+
+ NO NEIGHBORS! Count: 851
+
+ NO NEIGHBORS! Count: 852
+
+ NO NEIGHBORS! Count: 853
+
+ NO NEIGHBORS! Count: 854
+
+ NO NEIGHBORS! Count: 855
+
+ NO NEIGHBORS! Count: 856
+
+ NO NEIGHBORS! Count: 857
+
+ NO NEIGHBORS! Count: 858
+
+ NO NEIGHBORS! Count: 859
+
+ NO NEIGHBORS! Count: 860
+
+ NO NEIGHBORS! Count: 861
+
+ NO NEIGHBORS! Count: 862
+
+ NO NEIGHBORS! Count: 863
+
+ NO NEIGHBORS! Count: 864
+
+ NO NEIGHBORS! Count: 865
+
+ NO NEIGHBORS! Count: 866
+
+ NO NEIGHBORS! Count: 867
+
+ NO NEIGHBORS! Count: 868
+
+ NO NEIGHBORS! Count: 869
+
+ NO NEIGHBORS! Count: 870
+
+ NO NEIGHBORS! Count: 871
+
+ NO NEIGHBORS! Count: 872
+
+ NO NEIGHBORS! Count: 873
+
+ NO NEIGHBORS! Count: 874
+
+ NO NEIGHBORS! Count: 875
+
+ NO NEIGHBORS! Count: 876
+
+ NO NEIGHBORS! Count: 877
+
+ NO NEIGHBORS! Count: 878
+
+ NO NEIGHBORS! Count: 879
+
+ NO NEIGHBORS! Count: 880
+
+ NO NEIGHBORS! Count: 881
+
+ NO NEIGHBORS! Count: 882
+
+ NO NEIGHBORS! Count: 883
+
+ NO NEIGHBORS! Count: 884
+
+ NO NEIGHBORS! Count: 885
+
+ NO NEIGHBORS! Count: 886
+
+ NO NEIGHBORS! Count: 887
+
+ NO NEIGHBORS! Count: 888
+
+ NO NEIGHBORS! Count: 889
+
+ NO NEIGHBORS! Count: 890
+
+ NO NEIGHBORS! Count: 891
+
+ NO NEIGHBORS! Count: 892
+
+ WORKED!
+Sample 0 generated at ../../output/graphs_sampled/onlinecom/flickrEdges.txt0_SAMPLED_gpickle.1
+All graphs for onlinecom/ were processed. The end! 
+
+Calculating Size for flickrEdges.txt...
+Done! Time: 10:39:53
+Calculating Order for flickrEdges.txt...
+Done! Time: 10:39:53
+Calculating Assortativity for flickrEdges.txt...
+Done! Time: 10:39:54
+Calculating Transitivity for flickrEdges.txt...
+Done! Time: 10:39:54
+Calculating Degree for flickrEdges.txt...
+Done! Time: 10:39:54
+Calculating Coreness for flickrEdges.txt...
+Done! Time: 10:39:54
+Calculating Number_Triangles for flickrEdges.txt...
+Done! Time: 10:39:54
+Calculating Number_Cliques for flickrEdges.txt...
+Done! Time: 10:39:54
+Calculating Clique_Number for flickrEdges.txt...
+Done! Time: 10:39:54
+Calculating Clustering for flickrEdges.txt...
+Done! Time: 10:39:54
+Calculating Edge_connectivity for flickrEdges.txt...
+Done! Time: 10:39:54
+All feature saved in the output file: ../../output/features_vector_sampled/onlinecom/flickrEdges.txt0_VECTOR_SAMPLED.dat
+
+All features for onlinecom/ are processed. The end! 
+
