@@ -3,8 +3,7 @@ NetAna - Complex Network Analysis Package
 
 Extraction and analysis of several graph features from publicly available datasets using NetworkX.
 
-Sample results here: http://astro.sunysb.edu/steinkirch/new/mloutputs_sampled_tables/
-
+(Results, sources, draft of the paper, etc.)[http://mariwahl.us/html_files/mloutputs.html]
 
 
 Analyzed Features:
@@ -63,7 +62,7 @@ Networks:
 
 1* Social networks: online social networks, edges represent interactions between people
 
-2* Ground truth: ground-truth network communities in social and information networks 
+2* Ground truth: ground-truth network communities in social and information networks
 
 3* Communication: email communication networks with edges representing communication
 
@@ -79,7 +78,7 @@ Networks:
 
 9* Roads: nodes represent intersections and edges roads connecting the intersections
 
-10* Autonomous systems: graphs of the internet
+10* Autonomous systems: graphs of the Internet
 
 11* Signed networks: networks with positive and negative edges (friend/foe, trust/distrust)
 
@@ -87,15 +86,15 @@ Networks:
 
 13* Wikipedia: Talk, editing and voting data from Wikipedia
 
-14* Bio Atlas: Food-webs  selected from Ecosystem Network Analysis site and from ATLSS.  
+14* Bio Atlas: Food-webs  selected from Ecosystem Network Analysis site and from ATLSS.
 
-15* Bio Cellular: Substrate in cellular network of corresponding organism. 
+15* Bio Cellular: Substrate in cellular network of corresponding organism.
 
-16* Bio Metabolic: Metabolic network of corresponding organism.      
+16* Bio Metabolic: Metabolic network of corresponding organism.
 
-17* Bio Carbon: Carbon exchanges in the cypress wetlands of South Florida during the wet and dry season. 
+17* Bio Carbon: Carbon exchanges in the cypress wetlands of South Florida during the wet and dry season.
 
-18* Bio Yeast: Protein-protein interaction network in budding yeast.  
+18* Bio Yeast: Protein-protein interaction network in budding yeast.
 
 
 
@@ -107,19 +106,20 @@ Performed using snowball sampling (choosing the sample order, i.e. number of nod
 Next Steps
 ----------
 
-Cleanse the data here:
-
-https://github.com/mariwahl/NetClean-Complex-Networks-Data-Cleanser
-
-
-Classify the networks with lots of machine learning techiniques here:
-
-https://github.com/mariwahl/MLNet-Classifying-Complex-Networks
+(Cleanse the data here.)[https://github.com/mariwahl/NetClean-Complex-Networks-Data-Cleanser]
 
 
 
 
+(Classify the networks with lots of machine learning techniques here.)[https://github.com/mariwahl/MLNet-Classifying-Complex-Networks]
+
+
+
+Be Social!
+----------
+
+Please drop me a line or submit a patch if you have any suggestions!
 
 Mari Wahl @ 2014
-dev.mariwahl.us
+(dev.mariwahl.us)[dev.mariwahl.us]
 
