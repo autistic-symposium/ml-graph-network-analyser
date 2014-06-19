@@ -3,7 +3,7 @@ NetAna - Complex Network Analysis Package
 
 Extraction and analysis of several graph features from publicly available datasets using NetworkX.
 
-(Results, sources, draft of the paper, etc.)[http://mariwahl.us/html_files/mloutputs.html]
+[Results, sources, draft of the paper, etc.](http://mariwahl.us/html_files/mloutputs.html)
 
 
 Analyzed Features:
@@ -106,12 +106,12 @@ Performed using snowball sampling (choosing the sample order, i.e. number of nod
 Next Steps
 ----------
 
-(Cleanse the data here.)[https://github.com/mariwahl/NetClean-Complex-Networks-Data-Cleanser]
+[Cleanse the data here.](https://github.com/mariwahl/NetClean-Complex-Networks-Data-Cleanser)
 
 
 
 
-(Classify the networks with lots of machine learning techniques here.)[https://github.com/mariwahl/MLNet-Classifying-Complex-Networks]
+[Classify the networks with lots of machine learning techniques here.](https://github.com/mariwahl/MLNet-Classifying-Complex-Networks)
 
 
 
@@ -121,5 +121,5 @@ Be Social!
 Please drop me a line or submit a patch if you have any suggestions!
 
 Mari Wahl @ 2014
-(dev.mariwahl.us)[dev.mariwahl.us]
+[dev.mariwahl.us](dev.mariwahl.us)
 
