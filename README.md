@@ -120,6 +120,3 @@ Be Social!
 
 Please drop me a line or submit a patch if you have any suggestions!
 
-Mari Wahl @ 2014
-[dev.mariwahl.us](dev.mariwahl.us)
-
