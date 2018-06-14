@@ -1,7 +1,7 @@
 # 🌺 NetAna - Complex Network Analysis Package 🌺
 
 
-Extraction and analysis of several graph features from publicly available datasets using NetworkX. [Check out my draft paper with some of the preliminary results I have obtained](http://bt3gl.github.io/projects_page/html_files/mloutputs.html).
+Extraction and analysis of several graph features from publicly available datasets using NetworkX. [Check out my draft paper with some of the preliminary results I have obtained](http://bt3gl.github.io/projects_page/html_files/mloutputs.html) and [check out my final report](final_report.pdf).
 
 
 ### Analyzed Features
