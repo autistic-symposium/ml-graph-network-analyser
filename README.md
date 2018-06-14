@@ -1,13 +1,13 @@
-NetAna - Complex Network Analysis Package
-===========================================
+# 🌺 NetAna - Complex Network Analysis Package 🌺
+
 
 Extraction and analysis of several graph features from publicly available datasets using NetworkX.
 
 [Results, sources, draft of the paper, etc.](http://mariwahl.us/html_files/mloutputs.html)
 
 
-Analyzed Features:
-------------------
+### Analyzed Features:
+
 
 1* Assortativity
 
@@ -55,10 +55,8 @@ Analyzed Features:
 
 
 
+### Networks:
 
-
-Networks:
----------
 
 1* Social networks: online social networks, edges represent interactions between people
 
@@ -98,25 +96,21 @@ Networks:
 
 
 
-Normalization and Graph sampling:
----------------------------------
+### Normalization and Graph sampling:
+
 Performed using snowball sampling (choosing the sample order, i.e. number of nodes). Optimized for number of edges and multiple samplings.
 
 
-Next Steps
-----------
-
-[Cleanse the data here.](https://github.com/mariwahl/NetClean-Complex-Networks-Data-Cleanser)
+### Next Steps
 
 
+* [Cleanse the data here.](https://github.com/mariwahl/NetClean-Complex-Networks-Data-Cleanser)
+
+* [Classify the networks with lots of machine learning techniques here.](https://github.com/mariwahl/MLNet-Classifying-Complex-Networks)
 
 
-[Classify the networks with lots of machine learning techniques here.](https://github.com/mariwahl/MLNet-Classifying-Complex-Networks)
+### License
 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
 
-
-Be Social!
-----------
-
-Please drop me a line or submit a patch if you have any suggestions!
-
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
